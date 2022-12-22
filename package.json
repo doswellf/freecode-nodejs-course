@@ -4,6 +4,7 @@
 	"description": "My awesome nodejs web site!",
 	"keywords": ["awesome","freecodecamp","nodejs", "website"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
