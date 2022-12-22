@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Fraser Doswell",
+	"description": "My awesome nodejs web site!",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
